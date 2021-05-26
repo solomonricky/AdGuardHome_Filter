@@ -1,36 +1,36 @@
 !!! Unblock List !!!	
-	#! Microsoft Services
-	@@||microsoft.com^$important
-	@@||live.com^$important
-	@@||microsoft.com/en-gb/software-download/windows10ISO^$important
-	#! 今日影视
-	@@||jrys.wy2sf.com^$important
-	#! 微信吉他专家
-	@@||wxs.qq.com^$important
-	#! Unknown JWPlayer
-	@@||prd.jwpltx.com^$important
-	@@||entitlements.jwplayer.com^$important
-	#! Social Media
-	@@||facebook.com^$important
-	@@||instagram.com^$important
-	@@||whatsapp.com^$important
-	@@||tracking.my^$important
-	@@||taobao.com^$important
-	@@||shopee.com.my^$important
-	@@||lazada.com.my^$important
-	@@||netflix.com^$important
-	@@||maccms.com^$important
-	@@||baidu.com^$important
-	@@||easyanticheat.net
-	@@||umeng.com^$important
-	@@||umengcloud.com^$important
-	@@||www.shuajizhijia.net^$important
-	@@||www.romzhijia.net^$important
-	@@||epicgames.com^$important
-	@@||pv.sohu.com^$important
-	@@||ip.ws.126.net^$important
-	@@||pornhub.com^$important
-	||qq.com^$ctag=user_child
+#! Microsoft Services
+@@||microsoft.com^$important
+@@||live.com^$important
+@@||microsoft.com/en-gb/software-download/windows10ISO^$important
+#! 今日影视
+@@||jrys.wy2sf.com^$important
+#! 微信吉他专家
+@@||wxs.qq.com^$important
+#! Unknown JWPlayer
+@@||prd.jwpltx.com^$important
+@@||entitlements.jwplayer.com^$important
+#! Social Media
+@@||facebook.com^$important
+@@||instagram.com^$important
+@@||whatsapp.com^$important
+@@||tracking.my^$important
+@@||taobao.com^$important
+@@||shopee.com.my^$important
+@@||lazada.com.my^$important
+@@||netflix.com^$important
+@@||maccms.com^$important
+@@||baidu.com^$important
+@@||easyanticheat.net
+@@||umeng.com^$important
+@@||umengcloud.com^$important
+@@||www.shuajizhijia.net^$important
+@@||www.romzhijia.net^$important
+@@||epicgames.com^$important
+@@||pv.sohu.com^$important
+@@||ip.ws.126.net^$important
+@@||pornhub.com^$important
+||qq.com^$ctag=user_child
 	||api.xunyou.mobi^$ctag=user_child
 	||pay.xunyou.mobi^$ctag=user_child
 	||portal-xunyou.qingcdn.com^$ctag=user_child
