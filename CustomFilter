@@ -119,6 +119,7 @@
 ||91adv.com.cn^$important
 ||3336639.com^$important
 @@||s2.socialannex.com^$important
+<<<<<<< HEAD
 ||ts.qq.com^$ctag=user_child
 ||access1.tpns.sh.tencent.com^$ctag=user_child
 ||m.qpic.cn^$ctag=user_child
@@ -150,3 +151,7 @@
 ||150.109.90.61^$ctag=user_child
 ||119.28.164.141^$ctag=user_child
 ||182.254.116.117^$ctag=user_child
+@@||powerbigov.us^$important
+@@||demdex.net^$important
+@@||cdc.112.2o7.net^$important
+@@||usgovcloudapi.net^$important
