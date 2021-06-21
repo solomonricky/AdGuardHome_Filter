@@ -154,10 +154,10 @@
 @@||demdex.net^$important
 @@||cdc.112.2o7.net^$important
 @@||usgovcloudapi.net^$important
-||openspeech.cn^$ctag=user_child
-||voicecloud.cn^$ctag=user_child
+||openspeech.cn^$ctag=user_regular
+||voicecloud.cn^$ctag=user_regular
 ||gws.line.naver.jp^$ctag=user_child
 #! Mole
-||leiting.com^$ctag=user_child
-||taomee.com^$ctag=user_child
-||yb.dun.163.com^$ctag=user_child
+||leiting.com^$ctag=user_regular
+||taomee.com^$ctag=user_regular
+||yb.dun.163.com^$ctag=user_regular
