@@ -1,4 +1,5 @@
 !!! Unblock List !!!
+||baidu.com^$ctag=device_other
 #! Microsoft Services
 @@||microsoft.com^$important
 @@||live.com^$important
